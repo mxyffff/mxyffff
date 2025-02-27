@@ -17,6 +17,8 @@
 <a href="https://velog.io/@mayffff/posts" target="blank"><img align="center" src="https://img.shields.io/badge/Velog-000?style=social&logo=velog&logoColor=20C997" /> </a> 
 </p>
 
+---
+
 ### 📚 Currently Studying:
 - **Spring Boot** for backend development  
 - **iOS development (Swift)** (Planning to learn)
@@ -29,6 +31,22 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
+
+---
+
+### 👩🏻‍💻 Project
+
+2022년: 서울여대 해커톤 GURU1 - “**SWU Life 슈라이프**” 게임 개발 : **Unity (c#)**
+
+**: 🏆 장려상 수상**
+
+2023년: 서울여대 게임 개발 소학회 DISSION - “**교수님이 사라졌다**” 게임 개발 : **Unity (c#)**
+
+2024년: 서울여대 해커톤 GURU2 - “**WeGlean 위글린**” 플로깅 서비스앱 개발 : **Android Studio (Kotlin)**
+
+: 🏆 **우수상 수상** 
+
+---
 
 ### 🎯 My Baekjoon Level:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mxyffff)](https://solved.ac/mxyffff)
