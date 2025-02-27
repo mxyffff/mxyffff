@@ -1,13 +1,14 @@
 <h1 align="left">Hi there! 👋 I'm Dakyeom</h1>
 <h3 align="left">Aspiring Software Developer | Passionate about Mobile & Backend Development</h3>
 
-- 🎓 Computer Science student at **Seoul Women's University**  
+- 🎓 **서울여자대학교** 본전공: 디지털미디어학과 / 복수전공: 소프트웨어융합학과
 - 💻 Experienced in **C++, C#, Java, Kotlin, Android Studio, Unity**  
-- 🚀 Currently learning **Spring Boot** to expand my backend development skills  
+- 🚀 Currently learning **Spring Boot** to expand my backend development skills 
 - 📫 Reach me at **rua0254@naver.com**  
 
-### 🌟 About Me
-I enjoy building **mobile applications and backend systems** while constantly exploring new technologies. My journey started with game development using **Unity (C#)**, but I found greater interest in mobile development with **Android (Kotlin)**. Now, I'm diving into **backend development with Spring Boot** to broaden my expertise.  
+### 🌟 About Me  
+안녕하세요! 저는 **모바일 개발과 백엔드 개발**에 관심이 많은 소프트웨어 개발자 지망생입니다.  
+처음에는 **Unity(C#)를 활용한 게임 개발**을 배웠지만, 이후 **Android(Kotlin) 개발**에 흥미를 느끼면서 본격적으로 모바일 개발을 공부하게 되었습니다. 현재는 **Spring Boot를 활용한 백엔드 개발**을 학습하며 개발 역량을 확장하고 있습니다.  
 
 📍 **Let's connect!**  
 <p align="left">
@@ -17,7 +18,7 @@ I enjoy building **mobile applications and backend systems** while constantly ex
 
 ### 📚 Currently Studying:
 - **Spring Boot** for backend development  
-- **iOS development (Swift)** (Planning to learn)  
+- **iOS development (Swift)** (Planning to learn)
 
 ### 🛠️ Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
