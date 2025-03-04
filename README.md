@@ -36,13 +36,13 @@
 
 ### 👩🏻‍💻 Project
 
-2022년: 서울여대 해커톤 GURU1 - “**SWU Life 슈라이프**” 게임 개발 : **Unity (c#)**
+2022년: 서울여대 해커톤 GURU1 - [“**SWU Life 슈라이프**”](https://github.com/mxyffff/unityProject_10.git) 게임 개발 : **Unity (c#)**
 
 **: 🏆 장려상 수상**
 
-2023년: 서울여대 게임 개발 소학회 DISSION - “**교수님이 사라졌다**” 게임 개발 : **Unity (c#)**
+2023년: 서울여대 게임 개발 소학회 DISSION - [“**교수님이 사라졌다**”](https://github.com/Yeon09a/DISSION_SavingTheEarth.git) 게임 개발 : **Unity (c#)**
 
-2024년: 서울여대 해커톤 GURU2 - “**WeGlean 위글린**” 플로깅 서비스앱 개발 : **Android Studio (Kotlin)**
+2024년: 서울여대 해커톤 GURU2 - [“**WeGlean 위글린**”](https://darkened-ozraraptor-48a.notion.site/WeGlean-1a7f782ba8958021a0cec72dc281c7a9?pvs=4) 플로깅 서비스앱 개발 : **Android Studio (Kotlin)**
 
 : 🏆 **우수상 수상** 
 
