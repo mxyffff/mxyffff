@@ -50,6 +50,8 @@
 
 : 🏆 **우수상 수상** 
 
+2025년: [멋쟁이 사자처럼 13기] 여기톤 대비 토이 프로젝트 - [**”TripGuard”**](https://darkened-ozraraptor-48a.notion.site/TripGuard-214f782ba895802eb13fc36d52281d12) 여행 안전 정보 서비스 웹사이트 개발 : **Django(Python)**
+
 ---
 
 ### 🎯 My Baekjoon Level:
