@@ -48,7 +48,7 @@
 
 2025년: [멋쟁이 사자처럼 13기] 여기톤 대비 토이 프로젝트 - [**”TripGuard”**](https://darkened-ozraraptor-48a.notion.site/TripGuard-214f782ba895802eb13fc36d52281d12) 여행 안전 정보 서비스 웹사이트 개발 : **Django(Python)**
 
-2025년: SideImpact 공모전 제출작 - [**”SafeBuy”**](https://darkened-ozraraptor-48a.notion.site/SafeBuy-281f782ba895802d9f73d38b8bbf11c9?source=copy_link) 리콜 정보 검색 모바일웹 서비스 [Welcome SafeBuy](http://dontrecallme.shop) 개발 : **Spring Boot(Java)**
+2025년: SideImpact 공모전 제출작 - [**”SafeBuy”**](https://darkened-ozraraptor-48a.notion.site/SafeBuy-281f782ba895802d9f73d38b8bbf11c9?source=copy_link) 리콜 정보 검색 모바일웹 서비스 [**Welcome SafeBuy**](http://dontrecallme.shop) 개발 : **Spring Boot(Java)**
 
 ---
 
