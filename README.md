@@ -50,7 +50,7 @@
 
 2025년: SideImpact 공모전 제출작 - [**”SafeBuy”**](https://darkened-ozraraptor-48a.notion.site/SafeBuy-281f782ba895802d9f73d38b8bbf11c9?source=copy_link) 리콜 정보 검색 서비스 웹앱 개발 : **Spring Boot(Java)** [**dontrecallme.shop**](http://dontrecallme.shop)
 
-2025년: [멋쟁이사자처럼 13기] 슈멋사 프로젝트 - ”MealForYou 밀포유” : **Spring Boot(Java)** [**mealforyou.strore**](https://mealforyou.store)
+2025년: [멋쟁이 사자처럼 13기] 슈멋사 프로젝트 - ”MealForYou 밀포유” : **Spring Boot(Java)** [**mealforyou.strore**](https://mealforyou.store)
 
 2025년: [멋쟁이 사자처럼 13기] 취업트랙 프로젝트 - [**"슈슝"**](https://darkened-ozraraptor-48a.notion.site/2c6f782ba8958005a797fbfd96bacbeb?source=copy_link) 택시 동승 서비스 웹앱 개발 : **Spring Boot(Java)** [**swushoong.click**](https://frontend-lac-nine-20.vercel.app/)
 
