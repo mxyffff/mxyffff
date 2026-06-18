@@ -1,40 +1,31 @@
 <h1 align="left">Hi there! 👋 I'm Dakyeom</h1>
-<h3 align="left">Aspiring Software Developer | Passionate about Mobile & Backend Development</h3>
+<h3 align="left">
+Aspiring Backend Developer | Spring Boot · Database · API · Deployment
+</h3>
 
-- 🎓 **서울여자대학교** 본전공: 디지털미디어학과 / 복수전공: 소프트웨어융합학과
-- 💻 Experienced in **C++, C#, Java, Kotlin, Android Studio, Unity**  
-- 🚀 Currently learning **Spring Boot** to expand my backend development skills 
-- 📫 Reach me at **rua0254@naver.com**  
+안녕하세요.
+Spring Boot 기반 백엔드 개발자를 목표로 성장하고 있는 이다겸입니다.
 
-### 🌟 About Me  
-안녕하세요! 저는 **모바일과 백엔드(스프링 부트) 및 인프라**를 공부하고 있는 학생 개발자 이다겸입니다.
+저는 서울여자대학교 디지털미디어학과를 본전공으로, 소프트웨어융합학과를 복수전공하며 사용자 경험과 소프트웨어 구현을 함께 공부하고 있습니다. Unity와 Android 개발을 통해 사용자가 직접 마주하는 화면과 서비스 흐름을 경험했고, 이후 프로젝트 규모가 커질수록 데이터를 안정적으로 다루고 서비스의 핵심 로직을 설계하는 백엔드 영역에 흥미를 가지게 되었습니다.
 
-처음엔 **Unity(C#)를 통해 게임 개발**로 시작했지만, 이후 **Android(Kotlin) 개발**에 흥미를 느끼면서 게임과는 다른 분야로 발을 넓히게 되었습니다.
+현재는 Java와 Spring Boot를 중심으로 REST API 설계, 데이터베이스 모델링, 인증/인가, 외부 API 연동, Docker 기반 배포를 학습하고 있습니다. 기능 구현에 그치지 않고, 테이블 구조와 API 응답 설계, 운영 환경에서 발생하는 오류 추적과 해결 과정을 함께 고민하는 개발자가 되고자 합니다.
+<br/>
+### 📌 About Me
 
-현재는 **Spring Boot를 사용한 백엔드 개발**을 학습하며 개발 역량을 확장하고 있습니다.
+* 🎓 서울여자대학교 디지털미디어학과 본전공 / 소프트웨어융합학과 복수전공
+* 💻 Backend 중심으로 Java, Spring Boot, Database, REST API 학습 및 프로젝트 진행
+* 📱 Unity, Android 프로젝트 경험을 통해 사용자 흐름과 클라이언트 관점 이해
+* 🚀 팀 프로젝트와 해커톤을 통해 협업, 서비스 기획, 개발, 배포 경험 축적
+* 📫 Contact: rua0254@naver.com
+<br/>
 
-이후 타입스크립트를 배워서 리액트도 경험해보고 싶다는 바람이 있습니다.
 
-📍 **Let's connect!**  
-<p align="left">
-<a href="https://instagram.com/mxyffff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mxyffff" height="30" width="40" /></a> 
-<a href="https://velog.io/@mayffff/posts" target="blank"><img align="center" src="https://img.shields.io/badge/Velog-000?style=social&logo=velog&logoColor=20C997" /> </a> 
-</p>
-
----
-
-### 📚 Currently Studying:
-- **Spring Boot** for backend development  
-- **iOS development (Swift)** (Planning to learn)
-
-### 🛠️ Languages and Tools:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
+### 🛠️ Teck Stack
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
 
 ---
 
